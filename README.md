@@ -1,3 +1,5 @@
+This is the completed code from Pearson's Learn React LiveLessons course. Feel free to clone/fork/etc. Hope you enjoy the course!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
